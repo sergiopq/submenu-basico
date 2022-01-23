@@ -1,7 +1,7 @@
 #menu
 def menu():
     print("""**********************************************
-===BIENVENIDO A RECYLIFE===""")
+===BIENVENIDO===""")
     print("\n1. Registrar Institucion")
     print("-> 2. Lista de Registro")
     print("-> 3. Consultar Institucion")
